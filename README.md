@@ -9,7 +9,7 @@ Regular expressions are an extremely useful tool for manipulating text. Regular 
 -If a regular expression is complex, then you can easily find out which parts of the regular expression match which parts of the text
 -With this information, you can readily extract parts of the text, or do substitutions in the text
 
-**Package-****_java.util.regex_**
+**Package-_java.util.regex_**
 
 **Parts of Regular Expression**
 1. Pattern
