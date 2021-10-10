@@ -18,20 +18,20 @@ Pattern p = Pattern.compile("[a-z]+");
 Matcher m = p.matcher("Now is the time");
 
 ### Some Simple patterns
--abc		exactly this sequence of three letters
--[abc]		any one of the letters a, b, or c
--[^abc]		any character except one of the letters a, b, or c (immediately within an open bracket, ^ means “not,” but anywhere else it just means the character ^)
--[a-z]		any one character from a through z, inclusive
--[a-zA-Z0-9]	any one letter or digit
+- abc		exactly this sequence of three letters
+- [abc]		any one of the letters a, b, or c
+- [^abc]		any character except one of the letters a, b, or c (immediately within an open bracket, ^ means “not,” but anywhere else it just means the character ^)
+- [a-z]		any one character from a through z, inclusive
+- [a-zA-Z0-9]	any one letter or digit
 
 ### Date and Time in JAVA 8?
 **Package** 
--java.time
--java.time.LocalDate
--java.time.chrono
--java.time.format
--java.time.temporal
--java.time.zone
+- java.time
+- java.time.LocalDate
+- java.time.chrono
+- java.time.format
+- java.time.temporal
+- java.time.zone
 
 These all classes have predefined methods that helps us to ease our work of inserting time and date in desired format in a java application.
 
