@@ -35,7 +35,19 @@ Matcher m = p.matcher("Now is the time");
 
 These all classes have predefined methods that helps us to ease our work of inserting time and date in desired format in a java application.
 
+### ResultSet in Java
+A ResultSet is a Java object that contains the results of executing an SQL query.
+
+### Statements in JDBC
+The statement interface is used to create SQL basic statements in Java it provides methods to execute queries with the database. There are different types of statements that are used in JDBC as follows:
+
+- Create Statement
+- Prepared Statement
+- Callable Statement
+
 ### References
 https://drive.google.com/drive/folders/1VSG3kBPCAKQb5bPb-cO5B4EujsrPEmy5
 
 https://docs.oracle.com/javase/8/docs/api/
+
+https://www.geeksforgeeks.org/types-of-statements-in-jdbc/
