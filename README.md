@@ -36,7 +36,7 @@ Matcher m = p.matcher("Now is the time");
 These all classes have predefined methods that helps us to ease our work of inserting time and date in desired format in a java application.
 
 ### JDBC - Java Database Connectivity
-It is an API used to connect and execute atatements on Database with the help of Drivers. The code for implementing JDBC is uploaded above in the code section.
+It is an API used to connect and execute atatements on Database with the help of Drivers. 
 
 ### ResultSet in Java
 A ResultSet is a Java object that contains the results of executing an SQL query.
